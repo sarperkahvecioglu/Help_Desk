@@ -32,4 +32,4 @@
 - Herhangi bir Request'in üstüne tıklayarak o requesti görüntüleyebilir, statusünü Support user olarak değiştirebilirsiniz.
 - All Requests tab'inin yanında Clients'a tıklayarak bütün Clientları görüntüleyebilirsiniz.
 
-- Zaman ayırdığınız için teşekkür ederim. Umarım tekrar görüşürüz :)
+## Zaman ayırdığınız için teşekkür ederim. Umarım tekrar görüşürüz :)
