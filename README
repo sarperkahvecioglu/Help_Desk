@@ -1,0 +1,4 @@
+- Pull yaptığınız Help_Desk dosyasını VSCode veya tercih ettiğiniz bir IDE ile açınız.
+- Bilgisayarınızda Docker'ın kurulu olduğundan emin olunuz
+- Uygulamayı Windows ile açıyorsanız CMD, MacOS ile açıyorsanız Terminale gidiniz ve projenin bulunduğu directory'e gidiniz.
+- Sonrasında şu komutu çalıştırınız : 'docker-compose -f docker-compose.yaml up --build'
